@@ -1,0 +1,22 @@
+{
+  "name": "n-01",
+  "displayName": "N°01",
+  "description": "",
+  "version": "1.0.0",
+  "publisher": "dazzler",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "N°01",
+        "uiTheme": "vs-dark",
+        "path": "./themes/N°01-color-theme.json"
+      }
+    ]
+  }
+}
